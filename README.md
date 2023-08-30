@@ -5,7 +5,7 @@
 ## About me
 
 - ✨ Solving bugs since 2022
-- 📚 I'm currently learning Laravel <img src="https://laravel.com/img/logomark.min.svg" width="17" />
+- 📚 I'm currently learning Advanced Next JS  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
 - 🎯 Goals: Become A Famous Software Engineer.
 
 ## I code with
