@@ -4,8 +4,8 @@
 
 ## About me
 
-- ✨ Solving bugs since 2022
-- 📚 I'm currently learning Advanced Next JS  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+- ✨ Solving JavaScript Problems since 2022
+- 📚 I'm currently learning Advanced Next JS <img title="Next Js" alt="Next Js" src="./assets/next-logo.svg" width="17" />
 - 🎯 Goals: Become A Famous Software Engineer.
 
 ## I code with
@@ -48,3 +48,4 @@
 <span>
   <img align="left" title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 </span>
+
