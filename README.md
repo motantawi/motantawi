@@ -5,7 +5,7 @@
 ## About me
 
 - ✨ Solving JavaScript Problems since 2022
-- 📚 I'm currently learning Advanced Next JS <img title="Next Js" alt="Next Js" src="./assets/next-logo.svg" width="17" />
+- 📚 I'm currently learning Advanced Next JS <img title="Next Js" alt="Next Js" src="./assets/next-logo.svg" width="20" />
 - 🎯 Goals: Become A Famous Software Engineer.
 
 ## I code with
