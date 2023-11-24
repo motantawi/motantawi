@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Mustafa Tantawy and I'm a Front-End developer, from <img src="https://cdn-icons-png.flaticon.com/128/323/323324.png" width="17" /> <b>Cairo, Egypt</b>. </p>
+<p> My name is Mustafa Tantawy and I'm a Junior Frontend Engineer, from <img src="https://cdn-icons-png.flaticon.com/128/323/323324.png" width="17" /> <b>Cairo, Egypt</b>. </p>
 
 ## About me
 
