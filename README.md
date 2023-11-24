@@ -41,11 +41,4 @@
 <span>
   <img align="left" title="Bootstrap" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </span>
-<span>
-  <img align="left" title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-</span>
-
-<span>
-  <img align="left" title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-</span>
 
