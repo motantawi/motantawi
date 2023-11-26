@@ -1,52 +1,18 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mustafa+Tantawy+- 
+     +Software+Engineer;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
-<p> My name is Mustafa Tantawy and I'm a Junior Frontend Engineer, from <img src="https://cdn-icons-png.flaticon.com/128/323/323324.png" width="17" /> <b>Cairo, Egypt</b>. </p>
+<br/>
 
-## About me
+# 👩‍💻 Mustafa Tantawy (MrDev)
 
-- ✨ Solving JavaScript Problems since 2022
-- 📚 I'm currently learning Advanced Next JS <img title="Next Js" alt="Next Js" src="./assets/next-logo.svg" width="20" />
-- 🎯 Goals: Become A Famous Software Engineer.
+Driven and adaptable Junior React Frontend Developer with hands-on expertise in HTML5, CSS3, React, Redux, TypeScript, Next.js, JavaScript, Node.js, Express, MongoDB, and more. Skilled in Agile methodologies, I bring a strong foundation in frontend technologies and a keen understanding of client requirements to deliver impactful projects.
 
-## I code with
+Noteworthy experience includes roles as a Front-End Developer Intern at Code Alpha, where I honed my skills in crafting web pages using HTML, CSS, and JavaScript. Additionally, my tenure as a Software Engineering Intern at ALX Africa broadened my knowledge across diverse software engineering topics, reinforcing my capabilities in programming, algorithms, web development, and project management.
 
-<span>
-  <img align="left" title="HTML" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-</span>
-<span>
-  <img align="left" title="CSS" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</span>
-<span>
-  <img align="left" title="Javascript" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</span>
-<span>
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
-</span>
+As a dedicated Freelance Front-End Developer, I ensured seamless and mobile-responsive UI layouts, excelling in troubleshooting issues, configuring operational plugins, and implementing design changes. Eager to contribute and grow further in the ever-evolving realm of frontend development.
 
-<span>
- <img align="left" title="React" alt="React" width="40px" src="./assets/react-logo.svg" />
-</span>
+# 🤹‍♀️ Skills
 
-<span>
- <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
-</span>
-
-<span>
-  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
-</span>
-<span>
-  <img align="left" title="SASS" alt="SASS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</span>
-
-<span>
-  <img align="left" title="Bootstrap" alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-</span>
-<span>
-  <img align="left" title="NodeJS" alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</span>
-<span>
-  <img align="left" title="Express" alt="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-</span>
-<span>
-  <img align="left" title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</span>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="icon" width="86" height="86" /></div>
