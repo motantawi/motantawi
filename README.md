@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mustafa+Tantawy+- 
-     +Software+Engineer;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
-<br/>
-
 # 👩‍💻 Mustafa Tantawy (MrDev)
 
 Driven and adaptable Junior React Frontend Developer with hands-on expertise in HTML5, CSS3, React, Redux, TypeScript, Next.js, JavaScript, Node.js, Express, MongoDB, and more. Skilled in Agile methodologies, I bring a strong foundation in frontend technologies and a keen understanding of client requirements to deliver impactful projects.
@@ -15,4 +8,4 @@ As a dedicated Freelance Front-End Developer, I ensured seamless and mobile-resp
 
 # 🤹‍♀️ Skills
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="icon" width="86" height="86" /></div>
+<div style="display: flex; align-items: flex-start; gap:10px"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="icon" width="86" height="86" /></div>
