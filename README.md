@@ -1,6 +1,6 @@
 # 👩‍💻 Mustafa Tantawy (MrDev)
 
-Driven and adaptable Junior React Frontend Developer with hands-on expertise in HTML5, CSS3, React, Redux, TypeScript, Next.js, JavaScript, Node.js, Express, MongoDB, and more. Skilled in Agile methodologies, I bring a strong foundation in frontend technologies and a keen understanding of client requirements to deliver impactful projects.
+Driven and adaptable React Frontend Developer with hands-on expertise in HTML5, CSS3, React, Redux, TypeScript, Next.js, JavaScript, Node.js, Express, MongoDB, and more. Skilled in Agile methodologies, I bring a strong foundation in frontend technologies and a keen understanding of client requirements to deliver impactful projects.
 
 Noteworthy experience includes roles as a Front-End Developer Intern at Code Alpha, where I honed my skills in crafting web pages using HTML, CSS, and JavaScript. Additionally, my tenure as a Software Engineering Intern at ALX Africa broadened my knowledge across diverse software engineering topics, reinforcing my capabilities in programming, algorithms, web development, and project management.
 
