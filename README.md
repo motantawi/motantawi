@@ -2,7 +2,7 @@
 
 🚀 Check out my New Portfolio [mustafa.com](https://mustafa1.vercel.app) 
 
-I'm Mustafa Tantawy a Frontend Web Developer. I Spend most of my time coding outstanding projects or solving bugs.
+I'm Mustafa Tantawy a Frontend Web Developer. React Frontend Developer with extensive skills in HTML5, CSS3, React, Redux, TypeScript, and more. Experience includes Front-End Developer Intern at Code Alpha, where I demonstrated proficiency in creating web pages using frontend technologies and understanding client requirements. As a Software Engineering Intern at ALX Africa and as a dedicated Freelancer, I honed my expertise in responsive UI layouts, issue troubleshooting, and plugin configurations. Eager to leverage skills and adaptability to contribute effectively in the dynamic world of frontend development.
 
 :mailbox: Reach me out!
 
@@ -22,8 +22,6 @@ I'm Mustafa Tantawy a Frontend Web Developer. I Spend most of my time coding out
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-next-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
-<br />
-<br />
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://mustafa1.vercel.app/resume)
