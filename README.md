@@ -1,11 +1,30 @@
-# 👩‍💻 Mustafa Tantawy (MrDev)
+## Hi I'm Mustafa <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Driven and adaptable React Frontend Developer with hands-on expertise in HTML5, CSS3, React, Redux, TypeScript, Next.js, JavaScript, Node.js, Express, MongoDB, and more. Skilled in Agile methodologies, I bring a strong foundation in frontend technologies and a keen understanding of client requirements to deliver impactful projects.
+🚀 Check out my New Portfolio [mustafa.com](https://mustafa1.vercel.app) 
 
-Noteworthy experience includes roles as a Front-End Developer Intern at Code Alpha, where I honed my skills in crafting web pages using HTML, CSS, and JavaScript. Additionally, my tenure as a Software Engineering Intern at ALX Africa broadened my knowledge across diverse software engineering topics, reinforcing my capabilities in programming, algorithms, web development, and project management.
+I'm Mustafa Tantawy a Frontend Web Developer. I Spend most of my time coding outstanding projects or solving bugs.
 
-As a dedicated Freelance Front-End Developer, I ensured seamless and mobile-responsive UI layouts, excelling in troubleshooting issues, configuring operational plugins, and implementing design changes. Eager to contribute and grow further in the ever-evolving realm of frontend development.
+:mailbox: Reach me out!
 
-# 🤹‍♀️ Skills
+[![Twitter Badge](https://img.shields.io/badge/-@Dev-Mustafa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dev_Mustafa1)](https://twitter.com/Dev_Mustafa1) [![Linkedin Badge](https://img.shields.io/badge/-Mustafa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-tantawy/) [![Mail Badge](https://img.shields.io/badge/-@eng_mustafa111-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/eng_mustafa111) [![Mail Badge](https://img.shields.io/badge/-mustafa.tantawy12-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mustafa.tantawy12@gmail.com)
 
-<div style="display: flex; align-items: flex-start; gap:15 px;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="icon" width="86" height="86" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="icon" width="86" height="86" /></div>
+
+### What I currently Do
+
+- 🔭 I’m currently working at @Toptal
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: mustafa.tantawy12@gmail.com.
+- 😄 Pronouns: MrDev, Mustafa, Coder.
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-next-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+
+<br />
+<br />
+
+#### Bizness
+- :paperclip: [My Resume/CV](https://mustafa1.vercel.app/resume)
+- :email: mustafa.tantawy12@gmail.com
