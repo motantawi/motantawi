@@ -28,5 +28,5 @@ I'm Mustafa Tantawy a Frontend Web Developer. React Frontend Developer with exte
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://mustafa1.vercel.app/resume)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1m8t1YboAQOJnzHBabtmjr_gSizvn7C5S/view)
 - :email: mustafa.tantawy12@gmail.com
