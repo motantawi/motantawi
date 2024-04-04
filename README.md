@@ -2,7 +2,9 @@
 
 🚀 Check out my New Portfolio [mustafa.com](https://mustafa1.vercel.app) 
 
-I'm Mustafa Tantawy a Frontend Web Developer. React Frontend Developer with extensive skills in HTML5, CSS3, React, Redux, TypeScript, and more. Experience includes Front-End Developer Intern at Code Alpha, where I demonstrated proficiency in creating web pages using frontend technologies and understanding client requirements. As a Software Engineering Intern at ALX Africa and as a dedicated Freelancer, I honed my expertise in responsive UI layouts, issue troubleshooting, and plugin configurations. Eager to leverage skills and adaptability to contribute effectively in the dynamic world of frontend development.
+As a proficient React Frontend Developer with 1 year of experience, I am adept at transforming complex requirements into seamless digital experiences. My technical toolkit encompasses HTML5, CSS3, React, Redux, TypeScript, Next.js, JavaScript, Node.js, Express, and MongoDB, among other modern web technologies. With a solid grasp of Agile methodologies, I prioritize adaptability and collaboration to drive projects from conception to completion.
+
+My journey in technology has been marked by a continuous pursuit of learning and improvement, equipping me with a broad understanding of software engineering principles. This foundation enables me to navigate the intricacies of front-end development, from crafting responsive UI layouts to enhancing user engagement through meticulous design and functionality enhancements.
 
 :mailbox: Reach me out!
 
