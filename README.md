@@ -17,14 +17,14 @@ My journey in technology has been marked by a continuous pursuit of learning and
 
 ### What I currently Do
 
-- 🔭 I’m currently developing an educational platform called @Ajwaab
+- 🔭 I’m currently attending CS50 course.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: mustafa.tantawy12@gmail.com.
 - 😄 Pronouns: MrDev, Mustafa, Coder.
 
 #### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<!-- TODO: Make technologies links take you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Next Badge](https://img.shields.io/badge/-next-000?style=for-the-badge&labelColor=fff&logo=next.js&logoColor=000)](#)
 
