@@ -30,5 +30,4 @@ My journey in technology has been marked by a continuous pursuit of learning and
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1m8t1YboAQOJnzHBabtmjr_gSizvn7C5S/view)
 - :email: mustafa.tantawy12@gmail.com
