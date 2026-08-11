@@ -33,24 +33,24 @@
 
 ### 💼 Professional Experience
 
-*   **Frontend Developer** | **Elham Al-Mustaqbal** (Full Time, Remote) — *08/2024 – Present*[cite: 1]
-    *   Developed and maintained responsive web interfaces using Next.js and React.js, enhancing user experience[cite: 1].
-    *   Collaborated with cross-functional teams to deliver scalable and secure digital solutions for government and enterprise clients[cite: 1].
-    *   **Featured Project: Bayin** – Solely developed the frontend using Next.js 15, TypeScript, Material UI, React Query, Zustand, and next-intl, building a responsive, multilingual interface with RTL support and scalable architecture[cite: 1].
-*   **Frontend Developer** | **eSEED** (Part Time, Remote) — *09/2024 – 10/2025*[cite: 1]
-    *   Developed and enhanced GoAudience's AI-driven credit-card data platform by implementing new features[cite: 1].
-    *   Conducted comprehensive code reviews to ensure high code quality and adherence to best practices[cite: 1].
-*   **Frontend Developer** | **NextGen Softwares** (Contract, Remote) — *03/2024 – 06/2024*[cite: 1]
-    *   Contributed to key projects like Jobsolv and Dexpose, ensuring timely delivery and adherence to project goals[cite: 1].
-    *   Thrived in a remote team environment, utilizing effective communication skills to meet deadlines[cite: 1].
-*   **Frontend Developer** | **Ajwaab** (Contract, Remote) — *02/2023 – 05/2024*[cite: 1]
-    *   Developed responsive and user-friendly interfaces for an educational management system, enhancing user experience[cite: 1].
-    *   Improved system performance, resulting in a 10% increase in user engagement among educational centers[cite: 1].
+*   **Frontend Developer** | **Elham Al-Mustaqbal** (Full Time, Remote) — *08/2024 – Present*
+    *   Developed and maintained responsive web interfaces using Next.js and React.js, enhancing user experience.
+    *   Collaborated with cross-functional teams to deliver scalable and secure digital solutions for government and enterprise clients.
+    *   **Featured Project: Bayin** – Solely developed the frontend using Next.js 15, TypeScript, Material UI, React Query, Zustand, and next-intl, building a responsive, multilingual interface with RTL support and scalable architecture.
+*   **Frontend Developer** | **eSEED** (Part Time, Remote) — *09/2024 – 10/2025*
+    *   Developed and enhanced GoAudience's AI-driven credit-card data platform by implementing new features.
+    *   Conducted comprehensive code reviews to ensure high code quality and adherence to best practices.
+*   **Frontend Developer** | **NextGen Softwares** (Contract, Remote) — *03/2024 – 06/2024*
+    *   Contributed to key projects like Jobsolv and Dexpose, ensuring timely delivery and adherence to project goals.
+    *   Thrived in a remote team environment, utilizing effective communication skills to meet deadlines.
+*   **Frontend Developer** | **Ajwaab** (Contract, Remote) — *02/2023 – 05/2024*
+    *   Developed responsive and user-friendly interfaces for an educational management system, enhancing user experience.
+    *   Improved system performance, resulting in a 10% increase in user engagement among educational centers.
 
 ---
 
 ### 🚀 About Me
-I create easy-to-use digital experiences by turning complex ideas into simple, engaging designs[cite: 1]. Originally an engineering student, I transitioned to the College of Commerce to focus more on my passion for programming[cite: 1]. Always eager to learn, I focus on making front-end development smooth and responsive, ensuring that users have a great experience[cite: 1].
+I create easy-to-use digital experiences by turning complex ideas into simple, engaging designs. Originally an engineering student, I transitioned to the College of Commerce to focus more on my passion for programming. Always eager to learn, I focus on making front-end development smooth and responsive, ensuring that users have a great experience.
 
 ---
 
