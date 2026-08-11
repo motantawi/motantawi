@@ -55,5 +55,5 @@ I create easy-to-use digital experiences by turning complex ideas into simple, e
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=30" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:319795&height=100&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=30&fontColor=ffffff" alt="Footer Wave" />
 </div>
