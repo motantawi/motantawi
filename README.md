@@ -14,40 +14,46 @@
 
 ---
 
-### 📈 GitHub Statistics
+### 📈 GitHub Overview
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motantawi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mustafa's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motantawi&theme=radical&hide_border=true" alt="Mustafa's Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=motantawi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
 
 ### 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mui,git,redux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mui,git,redux" alt="Tech Stack Icons" />
 </div>
 
 ---
 
 ### 💼 Professional Experience
 
-*   **Frontend Developer** | **Elham Al-Mustaqbal** (Full Time, Remote) — *08/2024 – Present*
-    *   Developing responsive web interfaces using **Next.js 15** and **React.js** for government/enterprise clients.
-    *   **Featured Project: Bayin** – Solely developed the frontend (TypeScript, MUI, React Query, Zustand, RTL support) for a Saudi legal AI platform.
-*   **Frontend Developer** | **eSEED** (Part Time, Remote) — *09/2024 – 10/2025*
-    *   Enhanced AI-driven data platforms; conducted rigorous code reviews to ensure best practices.
-*   **Frontend Developer** | **NextGen Softwares** (Contract, Remote) — *03/2024 – 06/2024*
-    *   Contributed to **Jobsolv** and **Dexpose** platforms in a high-paced remote environment.
-*   **Frontend Developer** | **Ajwaab** (Contract, Remote) — *02/2023 – 05/2024*
-    *   Improved educational management systems, driving a **10% increase in user engagement**.
+*   **Frontend Developer** | **Elham Al-Mustaqbal** (Full Time, Remote) — *08/2024 – Present*[cite: 1]
+    *   Developed and maintained responsive web interfaces using Next.js and React.js, enhancing user experience[cite: 1].
+    *   Collaborated with cross-functional teams to deliver scalable and secure digital solutions for government and enterprise clients[cite: 1].
+    *   **Featured Project: Bayin** – Solely developed the frontend using Next.js 15, TypeScript, Material UI, React Query, Zustand, and next-intl, building a responsive, multilingual interface with RTL support and scalable architecture[cite: 1].
+*   **Frontend Developer** | **eSEED** (Part Time, Remote) — *09/2024 – 10/2025*[cite: 1]
+    *   Developed and enhanced GoAudience's AI-driven credit-card data platform by implementing new features[cite: 1].
+    *   Conducted comprehensive code reviews to ensure high code quality and adherence to best practices[cite: 1].
+*   **Frontend Developer** | **NextGen Softwares** (Contract, Remote) — *03/2024 – 06/2024*[cite: 1]
+    *   Contributed to key projects like Jobsolv and Dexpose, ensuring timely delivery and adherence to project goals[cite: 1].
+    *   Thrived in a remote team environment, utilizing effective communication skills to meet deadlines[cite: 1].
+*   **Frontend Developer** | **Ajwaab** (Contract, Remote) — *02/2023 – 05/2024*[cite: 1]
+    *   Developed responsive and user-friendly interfaces for an educational management system, enhancing user experience[cite: 1].
+    *   Improved system performance, resulting in a 10% increase in user engagement among educational centers[cite: 1].
 
 ---
 
 ### 🚀 About Me
-I am a software engineer driven by a passion for clean, maintainable code and scalable architectures. Originally transitioning from engineering to commerce to focus on software development, I bridge the gap between business goals and technical implementation.
+I create easy-to-use digital experiences by turning complex ideas into simple, engaging designs[cite: 1]. Originally an engineering student, I transitioned to the College of Commerce to focus more on my passion for programming[cite: 1]. Always eager to learn, I focus on making front-end development smooth and responsive, ensuring that users have a great experience[cite: 1].
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=30" alt="Footer Wave" />
 </div>
