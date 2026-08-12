@@ -6,9 +6,10 @@
 
 Building responsive, accessible, and multilingual web experiences with **React**, **Next.js**, and **TypeScript**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mustafa--tantawy.dev-copper?style=for-the-badge)](https://mustafa-tantawy.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mustafa--tantawy.vercel.app-B8613A?style=for-the-badge)](https://mustafa-tantawy.vercel.app/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-tantawy)
-[![Email](https://img.shields.io/badge/Email-mustafa.tantawy12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.tantawy12@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mustafa.tantawy12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.tantawy12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/motantawi)
 
 </div>
 
@@ -16,7 +17,7 @@ Building responsive, accessible, and multilingual web experiences with **React**
 
 ## About
 
-Frontend developer focused on turning complex product requirements into clean, intuitive interfaces. I work across the full frontend stack — from component architecture and state management to performance, accessibility, and RTL/i18n support.
+Frontend developer focused on turning complex product requirements into clean, intuitive interfaces. I work across component architecture, state management, performance, accessibility, and RTL/i18n support.
 
 Currently building production platforms for enterprise and government clients in remote, cross-functional teams.
 
@@ -46,9 +47,9 @@ Currently building production platforms for enterprise and government clients in
 
 | Project | Role | Stack |
 |--------|------|-------|
-| **Bayin** — AI legal platform | Lead frontend | Next.js 15, TypeScript, MUI, React Query, Zustand, next-intl |
-| **Atabe** — Real estate platform | Frontend developer | Next.js, React, Tailwind CSS, OpenStreetMap |
-| **Portfolio** — Personal site | Design & build | Next.js 15, TypeScript, i18n, dark/light theme, SEO |
+| [**Bayin**](https://bayin-lawyer.com/en/auth/login) — AI legal platform | Lead frontend | Next.js 15, TypeScript, MUI, React Query, Zustand, next-intl |
+| [**Atabe**](https://atabe.app/) — Real estate platform | Frontend developer | Next.js, React, Tailwind CSS, OpenStreetMap |
+| [**Portfolio**](https://mustafa-tantawy.vercel.app/en) — Personal site | Design & build | Next.js 15, TypeScript, i18n, dark/light theme, SEO |
 
 ---
 
@@ -71,7 +72,11 @@ Contract · Remote
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=motantawi&theme=dark&hide_border=true&background=12141A&ring=B8613A&fire=B8613A&currStreakLabel=B8613A" alt="GitHub streak" />
+
+![GitHub contributions](https://ghchart.rshah.org/motantawi)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=motantawi&theme=github_dark)
+
 </div>
 
 ---
