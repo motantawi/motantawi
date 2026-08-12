@@ -1,59 +1,85 @@
-# <div align="center">Hi, I'm Mustafa Tantawy Saleh 👋</div>
-
 <div align="center">
-  <h3>Frontend Developer | Transforming Complex Ideas into Intuitive Digital Experiences</h3>
-  <p>
-    <a href="https://linkedin.com/in/mustafa-tantawy">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:mustafa.tantawy12@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+
+# Mustafa Tantawy Saleh
+
+### Frontend Developer · Cairo, Egypt
+
+Building responsive, accessible, and multilingual web experiences with **React**, **Next.js**, and **TypeScript**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mustafa--tantawy.dev-copper?style=for-the-badge)](https://mustafa-tantawy.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-tantawy)
+[![Email](https://img.shields.io/badge/Email-mustafa.tantawy12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.tantawy12@gmail.com)
+
 </div>
 
 ---
 
-### 📈 GitHub Overview
+## About
+
+Frontend developer focused on turning complex product requirements into clean, intuitive interfaces. I work across the full frontend stack — from component architecture and state management to performance, accessibility, and RTL/i18n support.
+
+Currently building production platforms for enterprise and government clients in remote, cross-functional teams.
+
+---
+
+## Core Stack
+
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Material UI`  
+`Redux` · `Zustand` · `React Query` · `React Hook Form` · `next-intl` · `Git`
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=motantawi&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mui,git,redux,nodejs,html,css" alt="Tech stack" />
 </div>
 
 ---
 
-### 🛠 Tech Stack
+## Highlights
+
+- **Multilingual & RTL** — Built full Arabic/English interfaces with locale routing and RTL layouts
+- **Production delivery** — Shipped platforms for legal tech, real estate, education, and SaaS products
+- **Modern frontend** — Next.js App Router, SSR/SSG, TypeScript, reusable design systems
+- **Quality-focused** — Accessible UI, responsive layouts, code reviews, and Agile workflows
+
+---
+
+## Selected Work
+
+| Project | Role | Stack |
+|--------|------|-------|
+| **Bayin** — AI legal platform | Lead frontend | Next.js 15, TypeScript, MUI, React Query, Zustand, next-intl |
+| **Atabe** — Real estate platform | Frontend developer | Next.js, React, Tailwind CSS, OpenStreetMap |
+| **Portfolio** — Personal site | Design & build | Next.js 15, TypeScript, i18n, dark/light theme, SEO |
+
+---
+
+## Experience
+
+**Frontend Developer** · Elham Al-Mustaqbal · *Aug 2024 – Present*  
+Full-time · Remote · Riyadh, Saudi Arabia
+
+**Frontend Developer** · eSEED · *Sep 2024 – Oct 2025*  
+Part-time · Remote
+
+**Frontend Developer** · NextGen Softwares · *Mar 2024 – Jun 2024*  
+Contract · Remote
+
+**Frontend Developer** · Ajwaab · *Feb 2023 – May 2024*  
+Contract · Remote
+
+---
+
+## GitHub Activity
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mui,git,redux" alt="Tech Stack Icons" />
+  <img src="https://streak-stats.demolab.com?user=motantawi&theme=dark&hide_border=true&background=12141A&ring=B8613A&fire=B8613A&currStreakLabel=B8613A" alt="GitHub streak" />
 </div>
 
 ---
 
-### 💼 Professional Experience
-
-*   **Frontend Developer** | **Elham Al-Mustaqbal** (Full Time, Remote) — *08/2024 – Present*
-    *   Developed and maintained responsive web interfaces using Next.js and React.js, enhancing user experience.
-    *   Collaborated with cross-functional teams to deliver scalable and secure digital solutions for government and enterprise clients.
-    *   **Featured Project: Bayin** – Solely developed the frontend using Next.js 15, TypeScript, Material UI, React Query, Zustand, and next-intl, building a responsive, multilingual interface with RTL support and scalable architecture.
-*   **Frontend Developer** | **eSEED** (Part Time, Remote) — *09/2024 – 10/2025*
-    *   Developed and enhanced GoAudience's AI-driven credit-card data platform by implementing new features.
-    *   Conducted comprehensive code reviews to ensure high code quality and adherence to best practices.
-*   **Frontend Developer** | **NextGen Softwares** (Contract, Remote) — *03/2024 – 06/2024*
-    *   Contributed to key projects like Jobsolv and Dexpose, ensuring timely delivery and adherence to project goals.
-    *   Thrived in a remote team environment, utilizing effective communication skills to meet deadlines.
-*   **Frontend Developer** | **Ajwaab** (Contract, Remote) — *02/2023 – 05/2024*
-    *   Developed responsive and user-friendly interfaces for an educational management system, enhancing user experience.
-    *   Improved system performance, resulting in a 10% increase in user engagement among educational centers.
-
----
-
-### 🚀 About Me
-I create easy-to-use digital experiences by turning complex ideas into simple, engaging designs. Originally an engineering student, I transitioned to the College of Commerce to focus more on my passion for programming. Always eager to learn, I focus on making front-end development smooth and responsive, ensuring that users have a great experience.
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:319795&height=100&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=30&fontColor=ffffff" alt="Footer Wave" />
+
+**Open to full-time and contract frontend roles.**
+
+*Let's build something polished and purposeful.*
+
 </div>
